@@ -3,3 +3,4 @@ An LSTM model to predict the named entities in a sentence using Google's Trax fr
 
 Note: Trax requires libraries like JAX which are not yet supported on Windows. I would recommend executing this code on a linux based systems through WSL2.
 
+Dataset has been taken from kaggle.
